@@ -1,0 +1,23 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+   
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 200px auto;
+}
+.box{
+    background: lightgray;
+    width: 500px;
+    border: 2px gray solid;
+    /* padding top bottom same and left and right same */
+    padding: 10px 20px;
+    margin: 10px;
+   
+
+}
